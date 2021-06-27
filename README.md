@@ -1,6 +1,8 @@
 # UI KIT Booking Hotel
 
-
+![GitHub stars](https://img.shields.io/github/stars/alamsyahh15/booking_hotel?style=social)
+![GitHub forks](https://img.shields.io/github/forks/alamsyahh15/booking_hotel?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/alamsyahh15/booking_hotel?style=social)
 
 🔥 This is a Design to Code Booking Hotel app built with Flutter framework
 
