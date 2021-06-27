@@ -7,7 +7,7 @@
 🔥 This is a Design to Code Booking Hotel app built with Flutter framework
 
 ## 📸 Screenshot
-<img src="screenshot/preview.png" width="28.5%">
+<img src="screenshot/preview.png">
 <pre>
 <img src="screenshot/intro.png" width="28.5%">     <img src="screenshot/home.png" width="30%">     <img src="screenshot/detail.png" width="30%">
 </pre>
@@ -16,18 +16,22 @@
 
     # Root Project
     .
-    ├── lib                    # Name of module (default from Flutter)
-        ├── common             # Common shared.
-        |   ├── style          # Custom style that will be used on each widget.
-        |   └── utils          # Utility classes.
-        ├── ui                 # Activity/View layer
-        |   ├── chat           # Chat screen
-        |   ├── dashboard      # Main screen
-        |   ├── home           # Home screen
-        |   └── promo          # Promo screen
-        └── widget             # Custom widget which can be used repeatedly.
-
-
+    ├── assets
+    ├── lib                    
+        ├── components            
+        |   ├── constant          
+        |   └── custom_button 
+        |   └── custom_icon_button
+        |   └── list_popular_horizontal         
+        |   └── list_popular_vertical         
+        |   └── search_header         
+        ├── pages                
+            ├── dashboard_page           
+            ├── booking_page      
+            ├── home_page           
+            └── intro_page          
+     
+     
 
 ## Finished
 * [x] Modular the project based on the functionality
