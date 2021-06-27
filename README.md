@@ -1,16 +1,44 @@
-# hotel_booking_app
+# Gojek 4.0 Clone
 
-A new Flutter project.
+![GitHub stars](https://img.shields.io/github/stars/alamsyahh15/booking_hotel?style=social)
+![GitHub forks](https://img.shields.io/github/forks/alamsyahh15/booking_hotel?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/alamsyahh15/booking_hotel?style=social)
 
-## Getting Started
+🔥 This is a gojek 4.0 clone app built with Flutter framework
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot
+<img src="screenshot/preview.png" width="28.5%">
+<pre>
+<img src="screenshot/intro.png" width="28.5%">     <img src="screenshot/home.png" width="30%">     <img src="screenshot/detail.png" width="30%">
+</pre>
 
-A few resources to get you started if this is your first Flutter project:
+## Modularization Structure 🔥
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+    # Root Project
+    .
+    ├── lib                    # Name of module (default from Flutter)
+        ├── common             # Common shared.
+        |   ├── style          # Custom style that will be used on each widget.
+        |   └── utils          # Utility classes.
+        ├── ui                 # Activity/View layer
+        |   ├── chat           # Chat screen
+        |   ├── dashboard      # Main screen
+        |   ├── home           # Home screen
+        |   └── promo          # Promo screen
+        └── widget             # Custom widget which can be used repeatedly.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Finished
+* [x] Modular the project based on the functionality
+
+## Author
+
+* **Muhamad Alamsyah**
+
+Don't forget to follow me, fork and give me a ⭐
+
+
+## License
+
+[Muhamad Alamsyah](https://github.com/alamsyahh15)
