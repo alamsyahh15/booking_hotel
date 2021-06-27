@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/alamsyahh15/booking_hotel?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/alamsyahh15/booking_hotel?style=social)
 
-🔥 This is a gojek 4.0 clone app built with Flutter framework
+🔥 This is a Design to Code Booking Hotel app built with Flutter framework
 
 ## 📸 Screenshot
 <img src="screenshot/preview.png" width="28.5%">
