@@ -1,4 +1,4 @@
-# Gojek 4.0 Clone
+# UI KIT Booking Hotel
 
 ![GitHub stars](https://img.shields.io/github/stars/alamsyahh15/booking_hotel?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/alamsyahh15/booking_hotel?style=social)
