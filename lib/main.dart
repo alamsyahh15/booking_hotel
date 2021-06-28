@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:hotel_booking_app/components/constant.dart';
 import 'package:hotel_booking_app/pages/intro_page.dart';
 import 'package:hotel_booking_app/components/constant.dart' as App;
 
